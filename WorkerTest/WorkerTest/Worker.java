@@ -1,3 +1,5 @@
+package WorkerTest;
+
 public class Worker extends Thread
 
 {
